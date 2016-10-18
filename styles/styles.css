@@ -1,0 +1,39 @@
+img{
+
+
+    width: 84px;
+    height: 84px;
+    margin: 20px 80px auto;
+
+    }
+    body{
+
+margin-left: 5%;
+
+      background-color: orange;
+    }
+
+.box {
+  display: inline-block;
+  background-color: white;
+  width: 250px;
+  height: 250px;
+  margin: 1em;
+}
+a{
+  width: auto;
+  height: 50px;
+  margin: 10% 20% auto;
+  text-align: center;
+  font-size: 15px;
+}
+
+p{
+
+  width: auto;
+  height: 50px;
+  margin: 20% 20% auto;
+  text-align: center;
+  font-size: 15px;
+
+}
